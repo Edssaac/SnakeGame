@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"discord.iconMap": {
+
+			".c": "c",
+			".htm": "html",
+			".html": "html",
+			".gitignore": "git",
+			".js": "js",
+			".json": "json",
+			".md": "markdown",
+			".py": "python",
+			"package.json": "npm",
+			".ts": "typescript",
+			".lua": "lua",
+			".vue": "vue"
+		},
+		"discord.interval": null,
+		"discord.state": "{projectName}"
+	}
+}
