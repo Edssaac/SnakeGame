@@ -1,2 +1,9 @@
 # SnakeGame
-A simple and basic Snake Game created with JS language. The aim of this project is the study and pratice of both language and programming locig.
+
+Based on the old snake game, this game was build with the goal to practice JS language.
+
+To play use the keyboard arrows keys.
+
+![print of the game](https://raw.githubusercontent.com/Edssaac/SnakeGame/master/Snake.png)
+
+The game: [is Here](https://edssaac.github.io/SnakeGame/)
